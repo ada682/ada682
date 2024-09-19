@@ -15,10 +15,6 @@
   <img src="https://komarev.com/ghpvc/?username=ada682&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
-<div align="center">
-  <img src="https://github.com/ada682/ada682/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Grid Snake Animation">
-</div>
-
 ## About Me
 
 🤖 Specialized in creating bots using JS and C#
