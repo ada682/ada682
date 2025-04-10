@@ -1,9 +1,7 @@
-<!-- Ultra Modern Header with 3D Gradient -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=300&section=header&text=%5Bada682%5D&desc=Bot%20Developer%20|%20Web3%20Enthusiast&fontSize=90&fontColor=ffffff&rotate=13&fontAlignY=38&descAlignY=60&descSize=20&animation=twinkling"/>
 </div>
 
-<!-- Minimalist Contact Bar -->
 <div align="center">
   <a href="https://t.me/Realsonnet">
     <img src="https://img.shields.io/badge/-%E2%9C%A8%20Telegram-111?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00BFFF"/>
@@ -15,14 +13,11 @@
   <img src="https://komarev.com/ghpvc/?username=ada682&style=for-the-badge&color=161B22&label=PROFILE+VIEWS"/>
 </div>
 
-<!-- Glassmorphism Divider -->
 <img src="https://i.imgur.com/waxVImv.png" alt="Gradient Colored Line">
 
-<!-- About Section with Glassmorphism Effect -->
 ## About Me
 
 ```javascript
-// Developer Identity
 const developer = {
   name: "ada682",
   title: "Bot Developer & Web3 Specialist",
@@ -35,7 +30,6 @@ const developer = {
 };
 ```
 
-<!-- 3D Stats Section -->
 ## Performance Analytics
 
 <div align="center">
@@ -50,18 +44,14 @@ const developer = {
     </tr>
   </table>
   
-  <!-- Language Distribution Chart -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ada682&layout=compact&theme=radical&hide_border=false&border_radius=15&border_color=FF2D55&title_color=00BFFF&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages"/>
 </div>
 
-<!-- Modern Tech Stack with Depth Effect -->
 ## Tech Ecosystem
 
 <div align="center">
-  <!-- Tech Icons -->
   <img src="https://skillicons.dev/icons?i=js,cs,nodejs,react,solidity,docker,github,vscode&theme=dark&perline=8"/><br>
   
-  <!-- 3D Glass Tech Badges -->
   <div>
     <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E&labelColor=black"/>
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white&labelColor=%23239120"/>
@@ -76,7 +66,6 @@ const developer = {
   </div>
 </div>
 
-<!-- Development Focus -->
 ## Current Development
 
 <div align="center">
@@ -104,27 +93,21 @@ const developer = {
   </table>
 </div>
 
-<!-- Activity Visualization -->
 <div align="center">
-  <!-- 3D Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ada682&bg_color=0D1117&color=00BFFF&line=FF2D55&point=FFFFFF&area=true&area_color=0096FF33&hide_border=true" width="100%"/>
   
-  <!-- Contribution Grid -->
   <img src="https://github.com/ada682/ada682/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Visualization" width="100%"/>
 </div>
 
-<!-- Footer Quote with Gradient -->
 <div align="center">
   <br>
   <p style="color: gradient(to right, #00BFFF, #FF2D55);">
     "Innovation distinguishes between a leader and a follower."
   </p>
   
-  <!-- Dynamic Badge -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+commit+at+a+time..."/>
 </div>
 
-<!-- Futuristic Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=130&section=footer"/>
 </div>
