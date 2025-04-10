@@ -7,13 +7,13 @@
 </div>
 
 <p align="center">
-  <a href="https://t.me/Realsonnet>
+  <a href="https://t.me/Realsonnet">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:nandabahari20@gmail.com
+  <a href="mailto:nandabahari20@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/">
+  <a href="https://github.com/ada682">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -22,11 +22,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-<!-- Tech Section with Matrix Animation -->
+<!-- Tech Section with Your Requested GIF -->
 <table>
   <tr>
     <td width="45%">
-      <img align="center" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%">
+      <img align="center" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" width="100%">
     </td>
     <td width="55%">
       
@@ -40,7 +40,7 @@ class TechCreator {
       "Digital Architecture"
     ];
     this.toolkit = {
-      languages: ["JavaScript", "Python", "Solidity"],
+      languages: ["JavaScript", "C#", "Solidity"],
       frameworks: ["React", "Node.js", "TensorFlow"],
       environments: ["Blockchain", "Cloud", "Edge"]
     };
@@ -67,7 +67,7 @@ class TechCreator {
   <tr>
     <td width="33%">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.svg" width="100%">
+        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%">
       </div>
     </td>
     <td width="33%">
@@ -92,10 +92,10 @@ class TechCreator {
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ada689&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ada682&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=ada689&theme=tokyonight&hide_border=true&background=00000000&stroke=4C8EDA&fire=C38FFF"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ada682&theme=tokyonight&hide_border=true&background=00000000&stroke=4C8EDA&fire=C38FFF"/>
       </td>
     </tr>
   </table>  
@@ -107,7 +107,7 @@ class TechCreator {
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,solidity,nodejs,react,docker,aws,git,vscode&theme=dark&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,cs,solidity,nodejs,react,docker,git,vscode&theme=dark&perline=8" />
 </div>
 
 <div align="center">
@@ -121,12 +121,12 @@ class TechCreator {
       <h3 align="center">DIGITAL HORIZONS</h3>
       <div align="center">
         <ul style="list-style-type: none; padding: 0;">
-          <li>⚡ Crafting intelligent automation ecosystems</li>
-          <li>⚡ Building next-generation decentralized applications</li>
-          <li>⚡ Developing Web3 infrastructure solutions</li>
-          <li>⚡ Designing immersive digital experiences</li>
-          <li>⚡ Exploring quantum computing applications</li>
-          <li>⚡ Creating AI-powered creative systems</li>
+          <li>⚡ Building next-gen automated systems</li>
+          <li>⚡ Creating intelligent bot ecosystems</li>
+          <li>⚡ Developing Web3 infrastructure</li>
+          <li>⚡ Designing cross-platform solutions</li>
+          <li>⚡ Exploring blockchain innovation</li>
+          <li>⚡ Crafting seamless digital experiences</li>
         </ul>
       </div>
     </td>
@@ -139,7 +139,7 @@ class TechCreator {
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ada689&bg_color=0d1117&color=4c8eda&line=c38fff&point=ffffff&area=true&hide_border=true" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ada682&bg_color=0d1117&color=4c8eda&line=c38fff&point=ffffff&area=true&hide_border=true" width="98%"/>
 </div>
 
 <div align="center">
@@ -147,7 +147,7 @@ class TechCreator {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=C38FFF&center=true&vCenter=true&width=500&lines=Technology+is+best+when+it+brings+people+together;Design+is+intelligence+made+visible;Innovation+distinguishes+between+a+leader+and+a+follower" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=C38FFF&center=true&vCenter=true&width=500&lines=Design+is+intelligence+made+visible;Innovation+is+seeing+what+everybody+has+seen;and+thinking+what+nobody+has+thought" />
 </div>
 
 <div align="center">
