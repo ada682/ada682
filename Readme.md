@@ -22,11 +22,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGg2Ym83Z2s0NjIxYTJxbjB5MzQxMTNmZXMzaHgwbGFvN3kxenl6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
 </div>
 
-<!-- Tech Section with Modern Futuristic GIF -->
 <table>
   <tr>
     <td width="45%">
-      <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWYzcDJqeGJlNnRzNmJrdTI1MmliNnEzZGRtOTRqdDBsMWo3czg5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="100%">
+      <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnB5aXVrbngzc3ZqeTUzdzRlcWQ0ZnYzcHV4czUyNGRsOTlrZ2JoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%">
     </td>
     <td width="55%">
       
@@ -62,36 +61,24 @@ class TechCreator {
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFwaDV6YmV5dWczOTZpOXYyYmc2OXdqODYyOGl1b3BobDd5ajdvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%">
 </div>
 
-<!-- Stats Section with Holographic Style -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="100%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ada682&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-      </td>
-    </tr>
-  </table>  
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ada682&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </div>
 
-<!-- Tech Stack Gallery -->
-<div align="center">
-  <h3>TECHNOLOGY SPECTRUM</h3>
-</div>
-
-<div align="center">
+<div align="center" style="margin-top: 30px;">
+  <h2>⚡ TECHNOLOGY SPECTRUM</h2>
   <img src="https://skillicons.dev/icons?i=js,cs,solidity,nodejs,react,docker,git,vscode&theme=dark&perline=8" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJjZWltMDg3cWU2NmVhamI2NzM0cGdsdTI0c3Q5YTN6NzY0NWQ3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR85PnGsBwu1PFK/giphy.gif" width="100%">
 </div>
 
-<!-- Vision Section -->
-<table>
+<table style="margin-top: 20px;">
   <tr>
     <td width="60%">
-      <h3 align="center">DIGITAL HORIZONS</h3>
-      <div align="center">
+      <h2 align="center">DIGITAL HORIZONS</h2>
+      <div align="center" style="margin-top: 15px;">
         <ul style="list-style-type: none; padding: 0;">
           <li>⚡ Building next-gen automated systems</li>
           <li>⚡ Creating intelligent bot ecosystems</li>
@@ -104,17 +91,17 @@ class TechCreator {
     </td>
     <td width="40%">
       <div align="center">
-        <img src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" width="100%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWkzZGt2dHJzcWZ0OWF1ZWtlbTBudnNybGF0N2duNmQwc2J0bjc0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%">
       </div>
     </td>
   </tr>
 </table>
 
-<div align="center">
+<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ada682&bg_color=0d1117&color=4c8eda&line=c38fff&point=ffffff&area=true&hide_border=true" width="98%"/>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=C38FFF&center=true&vCenter=true&width=500&lines=Design+is+intelligence+made+visible;Innovation+is+seeing+what+everybody+has+seen;and+thinking+what+nobody+has+thought" />
 </div>
 
