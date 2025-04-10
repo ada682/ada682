@@ -19,14 +19,14 @@
 </p>
 
 <div align="center">  
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGg2Ym83Z2s0NjIxYTJxbjB5MzQxMTNmZXMzaHgwbGFvN3kxenl6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%">
 </div>
 
 <!-- Tech Section with Modern Futuristic GIF -->
 <table>
   <tr>
     <td width="45%">
-      <img align="center" src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.svg" width="100%">
+      <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWYzcDJqeGJlNnRzNmJrdTI1MmliNnEzZGRtOTRqdDBsMWo3czg5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="100%">
     </td>
     <td width="55%">
       
@@ -59,18 +59,15 @@ class TechCreator {
 </table>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDFwaDV6YmV5dWczOTZpOXYyYmc2OXdqODYyOGl1b3BobDd5ajdvMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%">
 </div>
 
 <!-- Stats Section with Holographic Style -->
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
+      <td width="100%">
         <img src="https://github-readme-stats.vercel.app/api?username=ada682&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=ada682&theme=tokyonight&hide_border=true&background=00000000&stroke=4C8EDA&fire=C38FFF"/>
       </td>
     </tr>
   </table>  
@@ -86,7 +83,7 @@ class TechCreator {
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJjZWltMDg3cWU2NmVhamI2NzM0cGdsdTI0c3Q5YTN6NzY0NWQ3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR85PnGsBwu1PFK/giphy.gif" width="100%">
 </div>
 
 <!-- Vision Section -->
