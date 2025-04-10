@@ -65,17 +65,17 @@ class TechCreator {
 <!-- Digital Art Gallery Section -->
 <table>
   <tr>
-    <td width="33%">
+    <td width="33.33%">
       <div align="center">
         <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%">
       </div>
     </td>
-    <td width="33%">
+    <td width="33.33%">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="80%">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY4MjQ5YjVkN2YwNjRmZDYxYTQzYWRiOGM1YzAyOTY0NTVkNWQ0MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/10bTCLE8GtVqeY/giphy.gif" width="100%">
       </div>
     </td>
-    <td width="33%">
+    <td width="33.33%">
       <div align="center">
         <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Cyberpunk_2077.gif" width="100%">
       </div>
