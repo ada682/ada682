@@ -1,113 +1,127 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=300&section=header&text=%5Bada682%5D&desc=Bot%20Developer%20|%20Web3%20Enthusiast&fontSize=90&fontColor=ffffff&rotate=13&fontAlignY=38&descAlignY=60&descSize=20&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=%5Bada682%5D&fontColor=ffffff&fontSize=80&fontAlignY=40&desc=Bot%20Developer%20|%20Web3%20Enthusiast&animation=fadeIn&descSize=22&descAlignY=60"/>
 </div>
 
 <div align="center">
   <a href="https://t.me/Realsonnet">
-    <img src="https://img.shields.io/badge/-%E2%9C%A8%20Telegram-111?style=for-the-badge&logo=telegram&logoColor=white&labelColor=00BFFF"/>
+    <img src="https://img.shields.io/badge/Telegram-@Realsonnet-0088CC?style=flat-square&logo=telegram&logoColor=white&labelColor=0088CC&color=black"/>
   </a>
   <a href="mailto:nandabahari20@gmail.com">
-    <img src="https://img.shields.io/badge/-%E2%9C%89%EF%B8%8F%20Email-111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF2D55"/>
+    <img src="https://img.shields.io/badge/Email-nandabahari20@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335&color=black"/>
   </a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=ada682&style=for-the-badge&color=161B22&label=PROFILE+VIEWS"/>
+  <br/>
+  
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Views&color=brightgreen&style=flat&query=%24.value&url=https://api.countapi.xyz/hit/ada682/visits"/>
 </div>
 
-<img src="https://i.imgur.com/waxVImv.png" alt="Gradient Colored Line">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
 
-## About Me
+## Core Identity
 
 ```javascript
 const developer = {
   name: "ada682",
-  title: "Bot Developer & Web3 Specialist",
-  expertise: {
-    primary: ["Bot Architecture", "Web3 Development"],
-    technologies: ["JavaScript", "C#", "Node.js", "Solidity"],
-    environments: ["Blockchain", "Server", "Client"],
+  specialty: "Bot Development & Web3 Integration",
+  skills: {
+    programming: ["JavaScript", "C#", "Solidity"],
+    frameworks: ["Node.js", "React", "Express"],
+    platforms: ["Ethereum", "Telegram", "Discord"],
+    tools: ["Docker", "Git", "VS Code"]
   },
-  focus: "Creating innovative bot solutions with Web3 integration"
+  currentFocus: "Building advanced automated systems with blockchain connectivity"
 };
 ```
 
-## Performance Analytics
+## Performance Metrics
 
 <div align="center">
-  <table border="0" align="center">
-    <tr border="0">
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ada682&show_icons=true&theme=radical&bg_color=0D1117&hide_border=false&border_radius=15&border_color=FF2D55&title_color=00BFFF&text_color=FFFFFF&icon_color=FF2D55" alt="GitHub Stats"/>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=ada682&theme=radical&background=0D1117&border_radius=15&border=FF2D55&fire=FF2D55&currStreakLabel=00BFFF&ring=00BFFF&sideLabels=FFFFFF&dates=888888" alt="Streak Stats"/>
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ada682&layout=compact&theme=radical&hide_border=false&border_radius=15&border_color=FF2D55&title_color=00BFFF&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ada682&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ada682&layout=compact&hide_border=true&theme=react&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF"/>
 </div>
 
-## Tech Ecosystem
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,cs,nodejs,react,solidity,docker,github,vscode&theme=dark&perline=8"/><br>
-  
-  <div>
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E&labelColor=black"/>
-    <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white&labelColor=%23239120"/>
-    <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white&labelColor=%23339933"/>
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB&labelColor=%23282C34"/>
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=flat-square&logo=solidity&logoColor=white&labelColor=%23363636"/>
-    <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white&labelColor=%232496ED"/>
-    <img src="https://img.shields.io/badge/Ethereum-%233C3C3D.svg?style=flat-square&logo=ethereum&logoColor=white&labelColor=%233C3C3D"/>
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white&labelColor=%23F05032"/>
-  </div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ada682&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </div>
 
-## Current Development
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
+
+## Technology Suite
 
 <div align="center">
-  <table border="0" align="center">
+  <table>
     <tr>
-      <td width="500px">
-        <h3>Bot Development</h3>
-        <ul>
-          <li>Advanced automation systems</li>
-          <li>Multi-platform integration</li>
-          <li>Natural language processing</li>
-          <li>Real-time data analytics</li>
-        </ul>
+      <td valign="top" width="33%">
+        <h3 align="center">Frontend</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+        </div>
       </td>
-      <td width="500px">
-        <h3>Web3 Exploration</h3>
-        <ul>
-          <li>Smart contract architecture</li>
-          <li>Decentralized applications</li>
-          <li>Cross-chain solutions</li>
-          <li>Blockchain optimization</li>
-        </ul>
+      <td valign="top" width="33%">
+        <h3 align="center">Backend</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Web3 & DevOps</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/ethereum.png" alt="Ethereum" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" alt="Solidity" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
+        </div>
       </td>
     </tr>
   </table>
 </div>
 
+## Development Focus
+
+<img align="right" height="250" width="400" alt="GIF" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" />
+
+- Building advanced automation systems for efficient workflow
+- Developing cross-platform bot solutions with seamless integration
+- Creating smart contracts for decentralized applications
+- Exploring cutting-edge Web3 technologies and implementations
+- Implementing secure, scalable blockchain solutions
+- Optimizing performance in distributed systems
+- Designing intuitive interfaces for complex systems
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ada682&bg_color=0D1117&color=00BFFF&line=FF2D55&point=FFFFFF&area=true&area_color=0096FF33&hide_border=true" width="100%"/>
-  
-  <img src="https://github.com/ada682/ada682/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Visualization" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ada682&theme=nord&no-frame=true&margin-w=15&margin-h=15" />
 </div>
 
 <div align="center">
-  <br>
-  <p style="color: gradient(to right, #00BFFF, #FF2D55);">
-    "Innovation distinguishes between a leader and a follower."
-  </p>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+commit+at+a+time..."/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
+
+## Activity Overview
+
+<div align="center">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ada682&custom_title=ada682's%20Contribution%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&line=58A6FF&point=58A6FF" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=130&section=footer"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=58A6FF&center=true&multiline=true&width=500&height=80&lines=Innovation+never+stops;Building+tomorrow's+solutions+today" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
 </div>
