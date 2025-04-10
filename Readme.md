@@ -46,7 +46,7 @@ const ada682 = {
 
 <div align="center">
   <a href="https://github.com/ada682/just-for-verify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ada682&repo=tea-bot&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ada682&repo=just-for-verify&theme=github_dark&hide_border=true" />
   </a>
 </div>
 
