@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4169E1&height=300&section=header&text=YOUR%20NAME&desc=Digital%20Creator%20%7C%20Tech%20Innovator&fontSize=72&animation=fadeIn&fontAlignY=30&descAlignY=50&descSize=24&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4169E1&height=300&section=header&text=KINJI&desc=Digital%20Creator%20%7C%20Tech%20Innovator&fontSize=72&animation=fadeIn&fontAlignY=30&descAlignY=50&descSize=24&fontColor=FFFFFF"/>
 </div>
 
 <div align="center">
@@ -7,13 +7,13 @@
 </div>
 
 <p align="center">
-  <a href="https://t.me/YourUsername">
+  <a href="https://t.me/Realsonnet>
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nandabahari20@gmail.com
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YourUsername">
+  <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -22,10 +22,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
+<!-- Tech Section with Matrix Animation -->
 <table>
   <tr>
     <td width="45%">
-      <img align="center" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" width="100%">
+      <img align="center" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%">
     </td>
     <td width="55%">
       
@@ -66,17 +67,17 @@ class TechCreator {
   <tr>
     <td width="33%">
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY4MjQ5YjVkN2YwNjRmZDYxYTQzYWRiOGM1YzAyOTY0NTVkNWQ0MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/10bTCLE8GtVqeY/giphy.gif" width="100%">
+        <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.svg" width="100%">
       </div>
     </td>
     <td width="33%">
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODU2ZDVlYWVkNjE1ZWNiYmZmMGNmNTk4NDRmNjQ3OGM0ZmNlMGJiZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Q9aBxHn9fTqKs/giphy.gif" width="100%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="80%">
       </div>
     </td>
     <td width="33%">
       <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRiMWQyYWFiNjY3ZWQzZDVjOGE3MjJlMzI0MmU2NzVlNDU5ZTlmYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l46C9BQEStLFGD9cI/giphy.gif" width="100%">
+        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Cyberpunk_2077.gif" width="100%">
       </div>
     </td>
   </tr>
@@ -91,10 +92,10 @@ class TechCreator {
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ada689&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=tokyonight&hide_border=true&background=00000000&stroke=4C8EDA&fire=C38FFF"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ada689&theme=tokyonight&hide_border=true&background=00000000&stroke=4C8EDA&fire=C38FFF"/>
       </td>
     </tr>
   </table>  
@@ -131,18 +132,18 @@ class TechCreator {
     </td>
     <td width="40%">
       <div align="center">
-        <img src="https://media.giphy.com/media/l46C9BQEStLFGD9cI/giphy.gif" width="100%">
+        <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%">
       </div>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&bg_color=0d1117&color=4c8eda&line=c38fff&point=ffffff&area=true&hide_border=true" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ada689&bg_color=0d1117&color=4c8eda&line=c38fff&point=ffffff&area=true&hide_border=true" width="98%"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </div>
 
 <div align="center">
