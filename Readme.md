@@ -22,11 +22,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
 
-<!-- Tech Section with Your Requested GIF -->
+<!-- Tech Section with Modern Futuristic GIF -->
 <table>
   <tr>
     <td width="45%">
-      <img align="center" src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" width="100%">
+      <img align="center" src="https://raw.githubusercontent.com/trinib/trinib/main/.images/terminal.svg" width="100%">
     </td>
     <td width="55%">
       
@@ -54,31 +54,6 @@ class TechCreator {
   }
 }
 ```
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<!-- Digital Art Gallery Section -->
-<table>
-  <tr>
-    <td width="33.33%">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%">
-      </div>
-    </td>
-    <td width="33.33%">
-      <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY4MjQ5YjVkN2YwNjRmZDYxYTQzYWRiOGM1YzAyOTY0NTVkNWQ0MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/10bTCLE8GtVqeY/giphy.gif" width="100%">
-      </div>
-    </td>
-    <td width="33.33%">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Cyberpunk_2077.gif" width="100%">
-      </div>
     </td>
   </tr>
 </table>
@@ -132,7 +107,7 @@ class TechCreator {
     </td>
     <td width="40%">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="100%">
+        <img src="https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif" width="100%">
       </div>
     </td>
   </tr>
@@ -140,10 +115,6 @@ class TechCreator {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ada682&bg_color=0d1117&color=4c8eda&line=c38fff&point=ffffff&area=true&hide_border=true" width="98%"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation">
 </div>
 
 <div align="center">
